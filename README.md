@@ -1,6 +1,6 @@
 <div align="center">
 
-# WONEX SOFTWARE
+# WONEX SOFTWARE - Mahmut Can İğrek - WONERYUM
 
 ### Software Development · AI · Infrastructure · Security
 
