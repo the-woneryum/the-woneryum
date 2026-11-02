@@ -1,13 +1,13 @@
 <div align="center">
 
-# WONEX SOFTWARE - Mahmut Can İğrek - WONERYUM
+# WONEX SOFTWARE
 
 ### Software Development · AI · Infrastructure · Security
 
 Building practical software, intelligent tools, and reliable systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-WONEX%20SOFTWARE-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C99A16?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_GITHUB_USERNAME.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-the--woneryum-181717?style=for-the-badge&logo=github)](https://github.com/the-woneryum)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Pages-C99A16?style=for-the-badge&logo=googlechrome&logoColor=white)](https://the-woneryum.github.io/)
 
 </div>
 
@@ -34,16 +34,7 @@ I am a software developer focused on building useful applications and exploring 
 
 ## Featured Projects
 
-> Replace these example entries with real repositories. Pin your strongest six projects on your GitHub profile.
-
-| Project | Description | Stack |
-|---|---|---|
-| **Project One** | A production-minded Python application. Add the problem it solves and its key features. | Python |
-| **Project Two** | A Django backend or REST API with documented endpoints and tests. | Django, PostgreSQL |
-| **Project Three** | An AI/ML experiment or practical model-powered application. | Python, AI/ML |
-| **Project Four** | A Linux or DevOps tool that automates a repeatable task. | Linux, Docker |
-| **Project Five** | A cross-platform mobile application. | Flutter, Dart |
-| **Project Six** | A defensive security or network-learning project. Clearly document scope and safe use. | Python, Networking |
+Public repositories are listed automatically on the portfolio website. Pin your strongest six repositories on your GitHub profile to make them easier to discover.
 
 ## What I’m Working On
 
@@ -62,8 +53,8 @@ I am a software developer focused on building useful applications and exploring 
 
 ## Connect
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Portfolio: [YOUR_GITHUB_USERNAME.github.io](https://YOUR_GITHUB_USERNAME.github.io/)
+- GitHub: [@the-woneryum](https://github.com/the-woneryum)
+- Portfolio: [the-woneryum.github.io](https://the-woneryum.github.io/)
 
 <div align="center">
 
